@@ -132,3 +132,34 @@ hr{
     width: 50%;
     align-self: center;
 }
+
+.testimonials{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.client-name{
+    margin-top: 100px;
+    width: 100%;
+    height: 50px;
+    font-size: 2em;
+    margin-left: 45%;
+}
+
+.client-destination{
+    width: 100%;
+    height: 50px;
+    font-size: 1.5em;
+    margin-left: 40%;
+    color: grey;
+}
+
+.client-testimonial{
+    width: 100%;
+    height: 50px;
+    font-size: 1.5em;
+    margin-left: 40%;
+    color: grey;
+    font-style: italic;
+}
