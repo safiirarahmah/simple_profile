@@ -14,3 +14,5 @@ added skills
 added previous work
 ![Capture3](https://user-images.githubusercontent.com/83525234/180014090-3e2dfae6-68e6-495e-921a-3038cf0e9497.PNG)
 
+added client testimonial
+![image](https://user-images.githubusercontent.com/83525234/180593740-47ec023e-d0a0-42d4-bc4e-7c30a97d1654.png)
